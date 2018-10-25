@@ -1,4 +1,7 @@
 {
     "name": "Andrew-Kolumbic/Portfolio",
-    "description": "Andrew Kolumbic's personal website"
+    "description": "Andrew Kolumbic's personal website",
+    "require": {
+        "php": "^7.0.0"
+      }
 }
